@@ -29,3 +29,6 @@ The goal of this project was to use data munging techniques, such as assessing t
 
 #### sqlPrep.py
 - Parses the XML data and converts it into tabular format into CSV files
+
+#### sample.py
+- Creates the sample OSM file
